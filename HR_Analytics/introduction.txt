@@ -1,0 +1,1 @@
+This is a dashboard which summarizes and find the solution for the scenario of attrition in a company .
