@@ -1,1 +1,1 @@
-This folder contains .pbix file which contains the dashboard.
+This folder contains .pbix file which contains the analytics dashboard.
